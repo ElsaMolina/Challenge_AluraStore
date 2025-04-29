@@ -72,7 +72,6 @@ import seaborn as sns
 ## Autor
 Informe realizado para Alura Store como parte del Challenge de Alura LATAM para la formación Modelado de datos con Python.
 
-
-![diagrama](https://github.com/user-attachments/assets/2a840998-8e53-4317-9a3c-55f7353e2ba8)  **Elsa Judith Molina Avilés** | ***Lic. Negocios Internacionales***
+⋆𐙚₊˚⊹♡ **Elsa Judith Molina Avilés** | ***Lic. Negocios Internacionales***
 
 
