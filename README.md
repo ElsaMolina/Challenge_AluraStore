@@ -70,6 +70,8 @@ import seaborn as sns
 - Conclusión y recomendación estratégica
 
 ## Autor
-Informe realizado para Alura Store como parte del Challenge de Alura para la formación Modelado de datos con Python.
+Informe realizado para Alura Store como parte del Challenge de Alura LATAM para la formación Modelado de datos con Python.
 
-Elsa Judith Molina Avilés | Lic. Negocios Internacionales 
+**Elsa Judith Molina Avilés** | ***Lic. Negocios Internacionales***
+![(  ߹꒳_߹ )](https://github.com/user-attachments/assets/5eb74290-53de-4f8d-a47b-e0cc0d5f6d8b)
+
