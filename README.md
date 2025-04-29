@@ -2,7 +2,7 @@
 
 # 📊 Análisis de Tiendas - Alura Store
 
-## 📚 Tabla de Contenidos
+## Tabla de Contenidos
 
 - [Descripción del Proyecto](#descripción-del-proyecto)
 - [Contenido del Informe](#contenido-del-informe)
@@ -72,6 +72,7 @@ import seaborn as sns
 ## Autor
 Informe realizado para Alura Store como parte del Challenge de Alura LATAM para la formación Modelado de datos con Python.
 
-**Elsa Judith Molina Avilés** | ***Lic. Negocios Internacionales***
-![(  ߹꒳_߹ )](https://github.com/user-attachments/assets/5eb74290-53de-4f8d-a47b-e0cc0d5f6d8b)
+
+![diagrama](https://github.com/user-attachments/assets/2a840998-8e53-4317-9a3c-55f7353e2ba8)  **Elsa Judith Molina Avilés** | ***Lic. Negocios Internacionales***
+
 
